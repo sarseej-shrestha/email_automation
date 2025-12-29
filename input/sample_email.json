@@ -1,0 +1,12 @@
+{
+  "sender": "billing@vendor.com",
+  "subject": "Invoice March 2025",
+  "received_date": "2025-03-28",
+  "attachments": [
+    {
+      "filename": "invoice_march.txt",
+      "content": "Invoice ID: 48291\nAmount: $1,200\nDue Date: 2025-04-15"
+    }
+  ]
+}
+
